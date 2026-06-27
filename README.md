@@ -182,15 +182,21 @@ Every time you load this page, a new programming quote will display below:
 
 ---
 
-### 🏙️ My Contributions — Isometric 3D City
+### 📈 My Contribution Activity
 
-> Every commit I make **builds a new building** in this glowing 3D sunset city. The taller the tower, the more I coded that day. Watch the skyline grow! 🌆
+> Every commit, PR, and review I make paints this live chart in real-time — powered automatically by my `Aneesh-20` GitHub account. No setup needed. 🌅
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aneesh-20/Aneesh-20/main/metrics.plugin.isocalendar.svg" alt="Aneesh T Narendaran — Isometric 3D Contribution City" width="100%" />
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aneesh-20&bg_color=150a08&color=F5C75D&line=E05A36&point=F8F1E5&area=true&area_color=E05A36&hide_border=true&radius=8&custom_title=Aneesh%20T%20Narendaran%20%E2%80%94%20Contribution%20Activity" alt="Aneesh-20 GitHub Activity Graph" width="100%" />
+  </a>
 </p>
 
-*(Powered by a daily GitHub Action that regenerates your city every day — setup instructions below!)*
+<p align="center">
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aneesh-20&bg_color=150a08&color=BFA89E&line=F5C75D&point=E05A36&area=false&hide_border=true&radius=8&height=200&custom_title=Last%2030%20Days%20at%20a%20Glance" alt="Aneesh-20 30 Day Activity" width="60%" />
+  </a>
+</p>
 
 ---
 
@@ -208,22 +214,10 @@ Follow these steps to deploy this beautiful README to your personal GitHub Profi
 6. Click **Create Repository**.
 
 ### Step 2: Upload Files
-1. Copy the content of this `README.md` file.
-2. Edit the `README.md` file inside your new GitHub repository, paste the copied content, and replace all placeholders (like `YOUR_LINKEDIN`, etc.) with your actual profile links.
-3. Upload your custom `banner.svg` file directly to the root of the repository.
-4. Commit your changes to the `main` branch.
+1. Open your `Aneesh-20` repository on GitHub.
+2. Click on `README.md` → click the **pencil ✏️** icon to edit.
+3. Select all the old text and paste the content of this file.
+4. Click **Commit changes** to save.
+5. Upload the `banner.svg` file using **Add file → Upload files** if not already uploaded.
 
-### Step 3: Setup the Isometric 3D Contribution City 🏙️
-This generates your custom 3D city from your real GitHub contribution data every day.
-
-1. First, create a **Personal Access Token (PAT)**:
-   - Go to **GitHub → Settings → Developer Settings → Personal Access Tokens → Tokens (classic)**
-   - Click **Generate new token (classic)**
-   - Give it a name like `METRICS_TOKEN`
-   - Select scopes: ✅ `public_repo`, ✅ `read:user`
-   - Click **Generate token** and copy it immediately.
-
-2. Add the token as a **Repository Secret**:
-   - In your `Aneesh-20` repository, go to **Settings → Secrets and Variables → Actions → New repository secret**
-   - Name it exactly: `METRICS_TOKEN`
-   - Paste your token value and sav
+> ✅ **Everything else is fully automatic!** The contribution graph, profile view counter, trophies, followers, and stars all update live from your GitHub account — no tokens or workflows needed.
