@@ -200,24 +200,3 @@ Every time you load this page, a new programming quote will display below:
 
 ---
 
-# 🚀 Setup & Deployment Guide
-
-Follow these steps to deploy this beautiful README to your personal GitHub Profile:
-
-### Step 1: Create Your Profile Repository
-1. Log in to GitHub.
-2. Create a **New Repository**.
-3. Set the repository name to match your exact **GitHub Username**: **`Aneesh-20`**
-   - GitHub will display a message: *"You found a secret! Aneesh-20/Aneesh-20 is a special repository..."*
-4. Make sure the repository is **Public**.
-5. Check the box to **Initialize this repository with a README**.
-6. Click **Create Repository**.
-
-### Step 2: Upload Files
-1. Open your `Aneesh-20` repository on GitHub.
-2. Click on `README.md` → click the **pencil ✏️** icon to edit.
-3. Select all the old text and paste the content of this file.
-4. Click **Commit changes** to save.
-5. Upload the `banner.svg` file using **Add file → Upload files** if not already uploaded.
-
-> ✅ **Everything else is fully automatic!** The contribution graph, profile view counter, trophies, followers, and stars all update live from your GitHub account — no tokens or workflows needed.
