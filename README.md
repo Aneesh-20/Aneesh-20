@@ -206,4 +206,73 @@
 
   #### 🗄️ Databases
   <table>
-    <tr
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+        <br /><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+        <br /><sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+        <br /><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+        <br /><sub><b>SQLite</b></sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 📂 Featured Repositories
+
+Here are some of the main projects I am working on, styled with custom warm colors:
+
+<p align="center">
+  <a href="https://github.com/Aneesh-20/Timetable-Cluster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Timetable Cluster" height="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Aneesh-20/Gap_Detection-Student_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Gap Detection - Student Analysis" height="120" />
+  </a>
+</p>
+
+---
+
+### 💬 Programming Inspiration
+
+Every time you load this page, a new programming quote will display below:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quotes" />
+</p>
+
+---
+
+### 📈 My Contribution Activity
+
+> Every commit, PR, and review I make paints this live chart in real-time — powered automatically by my `Aneesh-20` GitHub account. No setup needed. 🌅
+
+<p align="center">
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aneesh-20&bg_color=150a08&color=F5C75D&line=E05A36&point=F8F1E5&area=true&area_color=E05A36&hide_border=true&radius=8&custom_title=Aneesh%20T%20Narendaran%20%E2%80%94%20Contribution%20Activity" alt="Aneesh-20 GitHub Activity Graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aneesh-20&bg_color=150a08&color=BFA89E&line=F5C75D&point=E05A36&area=false&hide_border=true&radius=8&height=200&custom_title=Last%2030%20Days%20at%20a%20Glance" alt="Aneesh-20 30 Day Activity" width="60%" />
+  </a>
+</p>
+
+---
+
+
+> ✅ **Everything else is fully automatic!** The contribution graph, profile view counter, trophies, followers, and stars all update live from your GitHub account — no tokens or workflows needed.
