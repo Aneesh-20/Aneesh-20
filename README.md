@@ -275,4 +275,3 @@ Every time you load this page, a new programming quote will display below:
 ---
 
 
-> ✅ **Everything else is fully automatic!** The contribution graph, profile view counter, trophies, followers, and stars all update live from your GitHub account — no tokens or workflows needed.
