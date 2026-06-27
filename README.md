@@ -1,9 +1,7 @@
-<!-- Welcome to your customized GitHub Profile README! -->
+[<!-- Welcome to your customized GitHub Profile README! -->
 <!-- This file is styled with a Warm Autumn / Sunset color palette. -->
 
-<p align="center">
-  <img src="banner.svg" alt="Autumn Sunset Tech Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Aneesh-20" target="_blank" style="color: #E05A36; text-decoration: none;">Aneesh T Narendaran</a>! 👋</h1>
 <p align="center">
@@ -248,3 +246,4 @@ jobs:
 4. Commit the workflow file.
 5. Go to the **Actions** tab, select **Generate Snake Animation**, and click **Run workflow**. This will run the snake script and create a new branch named `output` containing the generated SVG.
 6. The snake image in your README will now dynamically fetch the output from the `output` branch and update itself every day!
+](https://github.com/Aneesh-20/Aneesh-20)
