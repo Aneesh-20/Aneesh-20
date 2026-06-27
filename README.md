@@ -2,7 +2,7 @@
 <!-- This file is styled with a Warm Autumn / Sunset color palette. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aneesh-20/Aneesh-20/refs/heads/main/banner.svg" alt="Data Analyst Tech Banner" width="100%" />
+  <img src="banner.svg?v=2" alt="Autumn Sunset Tech Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Aneesh-20" target="_blank" style="color: #E05A36; text-decoration: none;">Aneesh T Narendaran</a>! 👋</h1>
