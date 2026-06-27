@@ -64,13 +64,15 @@
 ### 🌅 About Me
 
 ```text
-"The finest digital gardens are watered with daily code commits and styled with passion."
+"In God we trust. All others must bring data." — W. Edwards Deming
 ```
 
-- 🍁 **Currently exploring:** Advanced predictive models, statistical forecasting, and dashboard interactive designs.
-- 💻 **Working on:** Student analysis project, gap detection systems, and automation scripts.
-- 📚 **Learning:** Deepening my knowledge in machine learning, database warehousing, and big data.
-- ☕ **Fun fact:** I love finding hidden patterns in messy datasets.
+- 📊 **Currently exploring:** Advanced predictive modelling, statistical forecasting, and interactive BI dashboard design.
+- 🔬 **Working on:** Gap detection in student performance data, timetable clustering algorithms, and automated data pipelines.
+- 🧠 **Learning:** Deep diving into Machine Learning, SQL query optimization, data warehousing, and Apache Spark.
+- 🐍 **Daily tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Jupyter Notebooks, and Tableau.
+- 📈 **Passion:** Turning raw, messy datasets into clear, actionable insights that drive real decisions.
+- ☕ **Fun fact:** I get genuinely excited when I find a hidden correlation in a dataset that nobody else noticed.
 
 ---
 
@@ -200,3 +202,22 @@ Every time you load this page, a new programming quote will display below:
 
 ---
 
+# 🚀 Setup & Deployment Guide
+
+Follow these steps to deploy this beautiful README to your personal GitHub Profile:
+
+### Step 1: Create Your Profile Repository
+1. Log in to GitHub.
+2. Create a **New Repository**.
+3. Set the repository name to match your exact **GitHub Username**: **`Aneesh-20`**
+   - GitHub will display a message: *"You found a secret! Aneesh-20/Aneesh-20 is a special repository..."*
+4. Make sure the repository is **Public**.
+5. Check the box to **Initialize this repository with a README**.
+6. Click **Create Repository**.
+
+### Step 2: Upload Files
+1. Open your `Aneesh-20` repository on GitHub.
+2. Click on `README.md` → click the **pencil ✏️** icon to edit.
+3. Select all the old text and paste the content of this file.
+4. Click **Commit changes** to save.
+5.
