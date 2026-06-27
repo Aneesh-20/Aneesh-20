@@ -248,7 +248,6 @@ Here are some of the main projects I am working on, styled with custom warm colo
 
 ### 💬 Programming Inspiration
 
-Every time you load this page, a new programming quote will display below:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quotes" />
