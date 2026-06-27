@@ -1,11 +1,13 @@
-[<!-- Welcome to your customized GitHub Profile README! -->
+<!-- Welcome to your customized GitHub Profile README! -->
 <!-- This file is styled with a Warm Autumn / Sunset color palette. -->
 
-
+<p align="center">
+  <img src="banner.svg?v=2" alt="Autumn Sunset Tech Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Aneesh-20" target="_blank" style="color: #E05A36; text-decoration: none;">Aneesh T Narendaran</a>! 👋</h1>
 <p align="center">
-  <strong>Creative Software Developer • Tech Enthusiast • Full Stack Engineer</strong>
+  <strong>Data Analyst • Insights Driven • Data Enthusiast</strong>
 </p>
 
 <!-- Visitor Counter Badge -->
@@ -48,10 +50,10 @@ Automated showcase of GitHub achievements and contributions:
 "The finest digital gardens are watered with daily code commits and styled with passion."
 ```
 
-- 🍁 **Currently exploring:** Advanced web architectures, modern interactive animations, and responsive system design.
-- 💻 **Working on:** Dynamic portfolio components, custom SVG vector designs, and workflow automations.
-- 📚 **Learning:** Deepening my knowledge in cloud services, modern backend practices, and WebGL graphics.
-- ☕ **Fun fact:** I believe that a clean codebase is as relaxing as a warm cup of coffee on a cozy autumn morning.
+- 🍁 **Currently exploring:** Advanced predictive models, statistical forecasting, and dashboard interactive designs.
+- 💻 **Working on:** Student analysis project, gap detection systems, and automation scripts.
+- 📚 **Learning:** Deepening my knowledge in machine learning, database warehousing, and big data.
+- ☕ **Fun fact:** I love finding hidden patterns in messy datasets.
 
 ---
 
@@ -63,16 +65,16 @@ Automated showcase of GitHub achievements and contributions:
   <table>
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-        <br /><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-        <br /><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
         <br /><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
+        <br /><sub><b>R Language</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <br /><sub><b>JavaScript</b></sub>
       </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
@@ -85,46 +87,46 @@ Automated showcase of GitHub achievements and contributions:
     </tr>
   </table>
 
-  #### 🚀 Frontend & Backend Frameworks
+  #### 📊 Data Analysis & Visualization
   <table>
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-        <br /><sub><b>React</b></sub>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+        <br /><sub><b>Pandas</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-        <br /><sub><b>Next.js</b></sub>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+        <br /><sub><b>NumPy</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-        <br /><sub><b>Node.js</b></sub>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
+        <br /><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://img.shields.io/badge/Tableau-E05A36?style=flat&logo=tableau&logoColor=white" width="60" height="20" alt="Tableau" />
+        <br /><sub><b>Tableau</b></sub>
+      </td>
+    </tr>
+  </table>
+
+  #### 🔧 Databases & Tools
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+        <br /><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+        <br /><sub><b>MySQL</b></sub>
       </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
         <br /><sub><b>MongoDB</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-        <br /><sub><b>PostgreSQL</b></sub>
-      </td>
-    </tr>
-  </table>
-
-  #### 🔧 Tools & DevOps
-  <table>
-    <tr>
-      <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
         <br /><sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-        <br /><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-        <br /><sub><b>Figma</b></sub>
       </td>
       <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
@@ -246,4 +248,3 @@ jobs:
 4. Commit the workflow file.
 5. Go to the **Actions** tab, select **Generate Snake Animation**, and click **Run workflow**. This will run the snake script and create a new branch named `output` containing the generated SVG.
 6. The snake image in your README will now dynamically fetch the output from the `output` branch and update itself every day!
-](https://github.com/Aneesh-20/Aneesh-20)
