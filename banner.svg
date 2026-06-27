@@ -1,131 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="100%" height="100%">
-  <!-- Definitions for gradients and filters -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="100%">
+  <!-- Gradients & Filters -->
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#190e0c" />
-      <stop offset="100%" stop-color="#2c1a16" />
+      <stop offset="0%" stop-color="#150a08" />
+      <stop offset="100%" stop-color="#241411" />
     </linearGradient>
 
-    <!-- Sun Glow (Radial) -->
-    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffd56b" stop-opacity="1" />
-      <stop offset="40%" stop-color="#f5ab35" stop-opacity="0.8" />
-      <stop offset="70%" stop-color="#e05a36" stop-opacity="0.2" />
-      <stop offset="100%" stop-color="#231513" stop-opacity="0" />
-    </radialGradient>
+    <!-- Terminal Background Gradient -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1d100d" />
+      <stop offset="100%" stop-color="#140a08" />
+    </linearGradient>
 
-    <!-- Sun Core -->
-    <linearGradient id="sunCore" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffe17d" />
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e05a36" />
+      <stop offset="50%" stop-color="#f5c75d" />
       <stop offset="100%" stop-color="#e05a36" />
     </linearGradient>
 
-    <!-- Wave 1 (Deepest) -->
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3c221a" />
-      <stop offset="50%" stop-color="#4a2a21" />
-      <stop offset="100%" stop-color="#321b14" />
-    </linearGradient>
-
-    <!-- Wave 2 (Middle) -->
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7a341e" />
-      <stop offset="60%" stop-color="#93432a" />
-      <stop offset="100%" stop-color="#642816" />
-    </linearGradient>
-
-    <!-- Wave 3 (Foreground) -->
-    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#d35400" />
-      <stop offset="40%" stop-color="#e67e22" />
-      <stop offset="80%" stop-color="#f39c12" />
-      <stop offset="100%" stop-color="#d35400" />
-    </linearGradient>
-
-    <!-- Wave 4 (Accent Foreground Wave) -->
-    <linearGradient id="wave4" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ff9f43" />
-      <stop offset="100%" stop-color="#e05a36" />
-    </linearGradient>
-
-    <!-- Text Shadow -->
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#0e0706" flood-opacity="0.6"/>
+    <!-- Drop Shadow Filter for IDE Window -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="114%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#070303" flood-opacity="0.7" />
     </filter>
 
-    <!-- Grid Pattern Overlay for Tech feel -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#fff" stroke-width="1"/>
-    </pattern>
+    <!-- Subtle Orange Glow Filter -->
+    <filter id="orangeGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
 
-  <!-- 1. Background -->
-  <rect width="850" height="280" fill="url(#bgGrad)" />
+  <!-- 1. Canvas Background -->
+  <rect width="850" height="320" fill="url(#bgGrad)" rx="8" />
 
-  <!-- Grid Pattern Overlay -->
-  <g opacity="0.04">
-    <rect width="850" height="280" fill="url(#grid)" />
+  <!-- Code Pattern/Grid Backdrop -->
+  <g opacity="0.03">
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#fff" stroke-width="1"/>
+    </pattern>
+    <rect width="850" height="320" fill="url(#grid)" />
   </g>
 
-  <!-- 2. Ambient Light / Sun Glow -->
-  <circle cx="425" cy="180" r="220" fill="url(#sunGlow)" opacity="0.85" />
-  
-  <!-- 3. Rising Sun -->
-  <circle cx="425" cy="160" r="70" fill="url(#sunCore)" />
+  <!-- Decorative Sunset light reflection -->
+  <circle cx="800" cy="50" r="150" fill="#e05a36" opacity="0.15" filter="blur(40px)" />
+  <circle cx="50" cy="280" r="100" fill="#f5c75d" opacity="0.1" filter="blur(30px)" />
 
-  <!-- 4. Abstract Vector Waves (Warm Autumn Colors) -->
-  <!-- Back Wave (Wave 1) -->
-  <path d="M 0 280 L 0 210 Q 150 170, 320 220 T 640 190 Q 750 200, 850 180 L 850 280 Z" fill="url(#wave1)" />
+  <!-- 2. Mac-Style IDE Window Mockup -->
+  <g filter="url(#shadow)" transform="translate(45, 30)">
+    <!-- Window Outer Border -->
+    <rect width="760" height="258" fill="url(#termBg)" rx="10" stroke="#3e241f" stroke-width="1.5" />
 
-  <!-- Middle Wave (Wave 2) -->
-  <path d="M 0 280 L 0 230 Q 200 240, 380 200 T 700 230 Q 780 210, 850 240 L 850 280 Z" fill="url(#wave2)" opacity="0.9" />
+    <!-- Window Title Bar -->
+    <path d="M 0 10 A 10 10 0 0 1 10 0 L 750 0 A 10 10 0 0 1 760 10 L 760 36 L 0 36 Z" fill="#241411" stroke="#3e241f" stroke-width="0.5" />
 
-  <!-- Foreground Wave (Wave 3) -->
-  <path d="M 0 280 L 0 260 Q 100 220, 250 250 T 550 230 Q 700 260, 850 220 L 850 280 Z" fill="url(#wave3)" opacity="0.95" />
+    <!-- Control Dots (Red, Yellow, Green) -->
+    <circle cx="20" cy="18" r="6" fill="#FF5F56" />
+    <circle cx="40" cy="18" r="6" fill="#FFBD2E" />
+    <circle cx="60" cy="18" r="6" fill="#27C93F" />
 
-  <!-- Front Detail Accent Wave (Wave 4) -->
-  <path d="M 0 280 L 0 270 Q 180 250, 360 275 T 720 260 Q 790 270, 850 255 L 850 280 Z" fill="url(#wave4)" opacity="0.45" />
+    <!-- Tab Section -->
+    <path d="M 100 36 L 115 12 L 245 12 L 260 36 Z" fill="#1d100d" stroke="#3e241f" stroke-width="1" />
+    <text x="180" y="27" font-family="'Inter', -apple-system, sans-serif" font-weight="600" font-size="11" fill="#F8F1E5" text-anchor="middle" opacity="0.8">analysis.py</text>
+    <!-- Close Tab cross -->
+    <text x="235" y="27" font-family="sans-serif" font-size="10" fill="#BFA89E" opacity="0.6">×</text>
 
-  <!-- Sparkles in Sky -->
-  <g fill="#ffd56b" opacity="0.7">
-    <circle cx="150" cy="60" r="1.5" />
-    <circle cx="280" cy="40" r="1" />
-    <circle cx="120" cy="100" r="1" />
-    <circle cx="680" cy="50" r="2" />
-    <circle cx="780" cy="80" r="1.5" />
-    <circle cx="580" cy="70" r="1" />
-    <circle cx="220" cy="130" r="1" />
-    <circle cx="730" cy="120" r="1.2" />
+    <!-- Path Info Text -->
+    <text x="740" y="23" font-family="'Inter', -apple-system, sans-serif" font-size="11" fill="#BFA89E" text-anchor="end" opacity="0.5">aneesh@macbook: ~/workspace/aneesh-20</text>
+
+    <!-- Panel Separator Line (Left: Terminal, Right: Code Editor) -->
+    <line x1="330" y1="36" x2="330" y2="258" stroke="#3e241f" stroke-width="1.5" />
+
+    <!-- Left Side: Terminal Emulator -->
+    <g transform="translate(20, 55)">
+      <!-- Line 1: Command prompt -->
+      <text x="0" y="15" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#F5C75D">aneesh-20@macbook ~ % <tspan fill="#F8F1E5" font-weight="normal">python analysis.py</tspan></text>
+      
+      <!-- Line 2: Terminal Output -->
+      <text x="0" y="38" font-family="'Courier New', monospace" font-size="12" fill="#BFA89E" opacity="0.8">> Loading dataset.csv... OK</text>
+      
+      <!-- Line 3: Terminal Output -->
+      <text x="0" y="56" font-family="'Courier New', monospace" font-size="12" fill="#BFA89E" opacity="0.8">> Processing 14,820 rows... Done</text>
+
+      <!-- Line 4: Stats accuracy -->
+      <text x="0" y="85" font-family="'Courier New', monospace" font-size="12" fill="#E05A36" font-weight="bold" filter="url(#orangeGlow)">[success] <tspan fill="#F8F1E5" font-weight="normal">Accuracy: 98.4% 📈</tspan></text>
+      <text x="0" y="105" font-family="'Courier New', monospace" font-size="12" fill="#F8F1E5" opacity="0.9">> Chart output.png saved!</text>
+
+      <!-- Cursor -->
+      <rect x="0" y="120" width="8" height="15" fill="#F5C75D" opacity="0.8">
+        <animate attributeName="opacity" values="0.8;0;0.8" dur="1s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- Right Side: Code Editor -->
+    <g transform="translate(350, 55)">
+      <!-- Syntax Highlighted Python Code -->
+      <!-- Line 1: Comment -->
+      <text x="0" y="15" font-family="'Courier New', monospace" font-size="13" fill="#BFA89E" font-style="italic"># Querying database for student metrics...</text>
+
+      <!-- Line 2: analyst = { -->
+      <text x="0" y="38" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">analyst <tspan fill="#E05A36" font-weight="bold">=</tspan> {</text>
+
+      <!-- Properties -->
+      <!-- "name": "Aneesh T Narendaran" -->
+      <text x="20" y="60" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">"name"<tspan fill="#E05A36">:</tspan> <tspan fill="#F8F1E5">"Aneesh T Narendaran"</tspan>,</text>
+
+      <!-- "role": "Data Analyst" -->
+      <text x="20" y="82" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">"role"<tspan fill="#E05A36">:</tspan> <tspan fill="#F8F1E5">"Data Analyst"</tspan>,</text>
+
+      <!-- "skills": ["Python", "SQL", "Pandas", "Tableau"] -->
+      <text x="20" y="104" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">"skills"<tspan fill="#E05A36">:</tspan> <tspan fill="#F8F1E5">[</tspan><tspan fill="#F5C75D">"Python"</tspan><tspan fill="#F8F1E5">, </tspan><tspan fill="#F5C75D">"SQL"</tspan><tspan fill="#F8F1E5">, </tspan><tspan fill="#F5C75D">"Pandas"</tspan><tspan fill="#F8F1E5">, </tspan><tspan fill="#F5C75D">"Tableau"</tspan><tspan fill="#F8F1E5">],</tspan></text>
+
+      <!-- "focus": "Extracting insights" -->
+      <text x="20" y="126" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">"focus"<tspan fill="#E05A36">:</tspan> <tspan fill="#F8F1E5">"Extracting insights"</tspan>,</text>
+
+      <!-- "status": "Analyzing data..." -->
+      <text x="20" y="148" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">"status"<tspan fill="#E05A36">:</tspan> <tspan fill="#F8F1E5">"Analyzing data..."</tspan></text>
+
+      <!-- Closing Bracket } -->
+      <text x="0" y="170" font-family="'Courier New', monospace" font-size="13" fill="#F5C75D">}</text>
+
+      <!-- Glowing brackets accent -->
+      <text x="280" y="175" font-family="'Courier New', monospace" font-size="28" fill="#E05A36" font-weight="bold" opacity="0.15" transform="scale(1.5)">{ }</text>
+    </g>
   </g>
-
-  <!-- 5. Typography -->
-  <style>
-    .welcome-text {
-      font-family: 'Outfit', 'Inter', -apple-system, sans-serif;
-      font-weight: 800;
-      font-size: 38px;
-      fill: #F8F1E5;
-      letter-spacing: 2px;
-    }
-    .subtitle-text {
-      font-family: 'Inter', -apple-system, sans-serif;
-      font-weight: 500;
-      font-size: 16px;
-      fill: #F5C75D;
-      letter-spacing: 4px;
-    }
-    .desc-text {
-      font-family: 'Inter', -apple-system, sans-serif;
-      font-weight: 300;
-      font-size: 11px;
-      fill: #BFA89E;
-      letter-spacing: 1px;
-    }
-  </style>
-
-  <text x="50%" y="105" text-anchor="middle" class="welcome-text" filter="url(#shadow)">CREATIVE DEVELOPER</text>
-  <text x="50%" y="135" text-anchor="middle" class="subtitle-text" filter="url(#shadow)">Welcome to my digital garden</text>
-  
-  <text x="50%" y="272" text-anchor="middle" class="desc-text" opacity="0.6">✦ CRAFTING DIGITAL EXPERIENCES WITH PASSION ✦</text>
 </svg>
