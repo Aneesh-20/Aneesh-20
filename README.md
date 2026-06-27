@@ -2,7 +2,7 @@
 <!-- This file is styled with a Warm Autumn / Sunset color palette. -->
 
 <p align="center">
-  <img src="banner.svg?v=2" alt="Autumn Sunset Tech Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aneesh-20/Aneesh-20/refs/heads/main/banner.svg" alt="Data Analyst Tech Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Aneesh-20" target="_blank" style="color: #E05A36; text-decoration: none;">Aneesh T Narendaran</a>! 👋</h1>
@@ -10,9 +10,15 @@
   <strong>Data Analyst • Insights Driven • Data Enthusiast</strong>
 </p>
 
-<!-- Visitor Counter Badge -->
+<!-- Visitor Counter Badge - Premium Style -->
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=Aneesh-20&color=e05a36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://komarev.com/ghvc/?username=Aneesh-20&color=E05A36&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Aneesh-20?label=✨+Followers&style=for-the-badge&color=F5C75D&labelColor=231513&logoColor=F8F1E5" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Aneesh-20?label=⭐+Stars&style=for-the-badge&color=E05A36&labelColor=231513&affiliations=OWNER" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -32,13 +38,24 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-Automated showcase of GitHub achievements and contributions:
+### 🏆 GitHub Achievement Trophies
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aneesh-20&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Aneesh-20 GitHub Trophies" width="100%" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/Aneesh-20">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aneesh-20&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://img.shields.io/badge/🏅_Commit_Champion-Aneesh--20-E05A36?style=for-the-badge&labelColor=231513" alt="Commit Champion" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aneesh-20?tab=repositories">
+    <img src="https://img.shields.io/badge/📦_Open_Source-Projects-F5C75D?style=for-the-badge&labelColor=231513" alt="Open Source" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aneesh-20">
+    <img src="https://img.shields.io/badge/🔥_Active-Contributor-E05A36?style=for-the-badge&labelColor=231513" alt="Active Contributor" />
   </a>
 </p>
 
@@ -144,12 +161,12 @@ Automated showcase of GitHub achievements and contributions:
 Here are some of the main projects I am working on, styled with custom warm colors:
 
 <p align="center">
-  <a href="https://github.com/Aneesh-20/Gap_Detection-Student_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Gap Detection - Student Analysis" height="120" />
+  <a href="https://github.com/Aneesh-20/Timetable-Cluster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Timetable Cluster" height="120" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Aneesh-20/food-waste-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=food-waste-management-system&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Food Waste Management System" height="120" />
+  <a href="https://github.com/Aneesh-20/Gap_Detection-Student_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=231513&title_color=E05A36&icon_color=F5C75D&text_color=F8F1E5&border_color=3E2A24" alt="Gap Detection - Student Analysis" height="120" />
   </a>
 </p>
 
