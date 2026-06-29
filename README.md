@@ -116,13 +116,6 @@
   </a>
 </p>
 
-<!-- FEATURE FEATURE 3: LIVE TELEMETRY COUNTERS UNDER THE PINNED CARDS -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Aneesh-20/Timetable-Cluster?style=flat-square&label=⭐%20Cluster%20Stars&color=FFAE19&labelColor=1A0F0D" alt="Stars 1"/>&nbsp;
-  <img src="https://img.shields.io/github/forks/Aneesh-20/Timetable-Cluster?style=flat-square&label=🍴%20Forks&color=FF5E36&labelColor=1A0F0D" alt="Forks 1"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Aneesh-20/Gap_Detection-Student_Analysis?style=flat-square&label=⭐%20Analysis%20Stars&color=FFAE19&labelColor=1A0F0D" alt="Stars 2"/>&nbsp;
-  <img src="https://img.shields.io/github/forks/Aneesh-20/Gap_Detection-Student_Analysis?style=flat-square&label=🍴%20Forks&color=FF5E36&labelColor=1A0F0D" alt="Forks 2"/>
-</p>
 
 ---
 
