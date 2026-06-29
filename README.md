@@ -15,15 +15,13 @@
 
 <!-- 3. MINIMALIST NETWORKING & SOCIALS -->
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/aneeshn20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1A0F0D?style=for-the-badge&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:aneesh.narendaran@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0F0D?style=for-the-badge&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-1A0F0D?style=for-the-badge&logo=githubpages&logoColor=FFAE19" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/aneeshn20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1A0F0D?style=for-the-badge&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:vasanthinarendren.tj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0F0D?style=for-the-badge&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
+  <a href="https://Aneesh-20.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-1A0F0D?style=for-the-badge&logo=githubpages&logoColor=FFAE19" alt="Portfolio" /></a>&nbsp;
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1A0F0D?style=for-the-badge&logo=x&logoColor=F8F1E5" alt="Twitter" /></a>
 </p>
 
 ---
-
-
 
 <!-- 4. DASHBOARD SPLIT GRID: ABOUT + LIVE STATS -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
@@ -42,7 +40,7 @@
     </td>
     <!-- Right Panel: High-Contrast Metrics Engine -->
     <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aneesh-20&show_icons=true&theme=calm&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36&hide_border=false&border_radius=10" alt="Aneesh Dev Stats" width="100%"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=Aneesh-20&show_icons=true&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" alt="Aneesh Dev Stats" width="100%"/>
     </td>
   </tr>
 </table>
@@ -108,14 +106,13 @@
 
 <p align="center">
   <a href="https://github.com/Aneesh-20/Timetable-Cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Timetable Cluster Repository" height="115" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Timetable Cluster Repository" height="115" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Aneesh-20/Gap_Detection-Student_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Gap Detection Repository" height="115" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Gap Detection Repository" height="115" />
   </a>
 </p>
-
 
 ---
 
@@ -131,10 +128,10 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" align="center" style="border: none; padding-right: 5px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-20&background=1A0F0D&ring=FF5E36&fire=FFAE19&stroke=FF5E36&currStreakLabel=FFAE19&sideLabels=F8F1E5" alt="Commit Streak Metrics" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=Aneesh-20&background=1A0F0D&ring=FF5E36&fire=FFAE19&stroke=FF5E36&currStreakLabel=FFAE19&sideLabels=F8F1E5&sideNums=F8F1E5&currStreakNum=F8F1E5" alt="Commit Streak Metrics" width="100%"/>
     </td>
     <td width="50%" align="center" style="border: none; padding-left: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh-20&layout=compact&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Top Languages Map" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aneesh-20&layout=compact&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Top Languages Map" width="100%" />
     </td>
   </tr>
 </table>
