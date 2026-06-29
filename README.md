@@ -15,8 +15,8 @@
 
 <!-- 3. MINIMALIST NETWORKING & SOCIALS -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1A0F0D?style=flat-square&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-1A0F0D?style=flat-square&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
+  <a href="https://linkedin.com/in/www.linkedin.com/in/aneeshn20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1A0F0D?style=flat-square&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:aneesh.narendaran@gmail.com"><img src="https://img.shields.io/badge/-Email-1A0F0D?style=flat-square&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
   <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1A0F0D?style=flat-square&logo=githubpages&logoColor=FFAE19" alt="Portfolio" /></a>&nbsp;
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1A0F0D?style=flat-square&logo=x&logoColor=F8F1E5" alt="Twitter" /></a>
 </p>
