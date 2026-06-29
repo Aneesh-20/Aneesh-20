@@ -21,9 +21,6 @@
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1A0F0D?style=flat-square&logo=x&logoColor=F8F1E5" alt="Twitter" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=Aneesh-20&color=FF5E36&style=flat-square&label=COUNTER%20//%20PROFILE%20VIEWS" alt="Profile Views" />
-</p>
 
 ---
 
