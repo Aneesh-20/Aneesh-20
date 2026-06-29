@@ -15,14 +15,15 @@
 
 <!-- 3. MINIMALIST NETWORKING & SOCIALS -->
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/aneeshn20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1A0F0D?style=flat-square&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:aneesh.narendaran@gmail.com"><img src="https://img.shields.io/badge/-Email-1A0F0D?style=flat-square&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1A0F0D?style=flat-square&logo=githubpages&logoColor=FFAE19" alt="Portfolio" /></a>&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1A0F0D?style=flat-square&logo=x&logoColor=F8F1E5" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/aneeshn20" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1A0F0D?style=for-the-badge&logo=linkedin&logoColor=FF5E36" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:aneesh.narendaran@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0F0D?style=for-the-badge&logo=gmail&logoColor=FF5E36" alt="Email" /></a>&nbsp;
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-1A0F0D?style=for-the-badge&logo=githubpages&logoColor=FFAE19" alt="Portfolio" /></a>&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1A0F0D?style=for-the-badge&logo=x&logoColor=F8F1E5" alt="Twitter" /></a>
 </p>
 
-
 ---
+
+
 
 <!-- 4. DASHBOARD SPLIT GRID: ABOUT + LIVE STATS -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
@@ -48,15 +49,41 @@
 
 ---
 
+<!-- FEATURE FEATURE 2: AUTOMATED SKILL PROFICIENCY BARS -->
+### 📈 Core Architecture Proficiencies
+
+<table width="100%" style="border-collapse: collapse; border: none; font-family: 'Segoe UI', sans-serif;">
+  <tr>
+    <td width="30%" style="border: none; padding: 4px; color: #F8F1E5;"><b>Data Pipelines & ETL</b></td>
+    <td width="70%" style="border: none; padding: 4px;">
+      <img src="https://geps.dev/progress/92?dangerColor=1A0F0D&warningColor=FFAE19&successColor=FF5E36" alt="ETL Proficiency" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="border: none; padding: 4px; color: #F8F1E5;"><b>Statistical Modeling</b></td>
+    <td width="70%" style="border: none; padding: 4px;">
+      <img src="https://geps.dev/progress/88?dangerColor=1A0F0D&warningColor=FFAE19&successColor=FF5E36" alt="Stats Proficiency" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" style="border: none; padding: 4px; color: #F8F1E5;"><b>Business Intelligence Tools</b></td>
+    <td width="70%" style="border: none; padding: 4px;">
+      <img src="https://geps.dev/progress/85?dangerColor=1A0F0D&warningColor=FFAE19&successColor=FF5E36" alt="BI Proficiency" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- 5. LUXURY TECH MATRIX (CLEAN GRAPHICS) -->
 ### 🛠️ Core Technology Matrix
 
 <table align="center" width="100%" style="border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="padding: 10px;"><b>Analytics & BI</b></td>
-    <td style="padding: 10px;"><b>AI & Core ML</b></td>
-    <td style="padding: 10px;"><b>Architecture</b></td>
-    <td style="padding: 10px;"><b>Databases</b></td>
+    <td style="padding: 10px; color: #FFAE19;"><b>Analytics & BI</b></td>
+    <td style="padding: 10px; color: #FFAE19;"><b>AI & Core ML</b></td>
+    <td style="padding: 10px; color: #FFAE19;"><b>Architecture</b></td>
+    <td style="padding: 10px; color: #FFAE19;"><b>Databases</b></td>
   </tr>
   <tr>
     <td style="padding: 12px; background-color: #1A0F0D; border-radius: 8px;">
@@ -76,17 +103,25 @@
 
 ---
 
-<!-- 6. FEATURED REPOSITORIES (CUSTOM COMPACT BORDERS) -->
+<!-- 6. FEATURED REPOSITORIES (CUSTOM COMPACT BORDERS WITH LIVE TELEMETRY ADDED) -->
 ### 📂 Production Showcases
 
 <p align="center">
   <a href="https://github.com/Aneesh-20/Timetable-Cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=1A0F0D" alt="Timetable Cluster Repository" height="115" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Timetable-Cluster&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Timetable Cluster Repository" height="115" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Aneesh-20/Gap_Detection-Student_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=1A0F0D" alt="Gap Detection Repository" height="115" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneesh-20&repo=Gap_Detection-Student_Analysis&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Gap Detection Repository" height="115" />
   </a>
+</p>
+
+<!-- FEATURE FEATURE 3: LIVE TELEMETRY COUNTERS UNDER THE PINNED CARDS -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Aneesh-20/Timetable-Cluster?style=flat-square&label=⭐%20Cluster%20Stars&color=FFAE19&labelColor=1A0F0D" alt="Stars 1"/>&nbsp;
+  <img src="https://img.shields.io/github/forks/Aneesh-20/Timetable-Cluster?style=flat-square&label=🍴%20Forks&color=FF5E36&labelColor=1A0F0D" alt="Forks 1"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Aneesh-20/Gap_Detection-Student_Analysis?style=flat-square&label=⭐%20Analysis%20Stars&color=FFAE19&labelColor=1A0F0D" alt="Stars 2"/>&nbsp;
+  <img src="https://img.shields.io/github/forks/Aneesh-20/Gap_Detection-Student_Analysis?style=flat-square&label=🍴%20Forks&color=FF5E36&labelColor=1A0F0D" alt="Forks 2"/>
 </p>
 
 ---
@@ -100,13 +135,13 @@
   </a>
 </p>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-20&theme=calm&background=1A0F0D&ring=FF5E36&fire=FFAE19&stroke=1A0F0D&currStreakLabel=FFAE19&sideLabels=F8F1E5" alt="Commit Streak Metrics" width="100%"/>
+    <td width="50%" align="center" style="border: none; padding-right: 5px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-20&background=1A0F0D&ring=FF5E36&fire=FFAE19&stroke=FF5E36&currStreakLabel=FFAE19&sideLabels=F8F1E5" alt="Commit Streak Metrics" width="100%"/>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh-20&layout=compact&theme=calm&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=1A0F0D" alt="Top Languages Map" width="100%" />
+    <td width="50%" align="center" style="border: none; padding-left: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh-20&layout=compact&bg_color=1A0F0D&title_color=FF5E36&icon_color=FFAE19&text_color=F8F1E5&border_color=FF5E36" alt="Top Languages Map" width="100%" />
     </td>
   </tr>
 </table>
